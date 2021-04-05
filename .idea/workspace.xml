@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="033a68a4-edac-41f1-9ff9-3d287433efee" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qU2BPOksJsrkXUfiGUNfBVvU6U" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="033a68a4-edac-41f1-9ff9-3d287433efee" name="Default Changelist" comment="" />
+      <created>1617119712101</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617119712101</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="441" y="286" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617122048507">
+      <screen x="0" y="0" width="1620" height="1040" />
+    </state>
+    <state x="441" y="286" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1620.1040@0.0.1620.1040" timestamp="1617122048507" />
+    <state x="210" y="120" width="1200" height="800" key="AVDManager" timestamp="1617122485084">
+      <screen x="0" y="0" width="1620" height="1040" />
+    </state>
+    <state x="210" y="120" width="1200" height="800" key="AVDManager/0.0.1620.1040@0.0.1620.1040" timestamp="1617122485084" />
+    <state x="767" y="372" key="FileChooserDialogImpl" timestamp="1617122099282">
+      <screen x="0" y="0" width="1620" height="1040" />
+    </state>
+    <state x="767" y="372" key="FileChooserDialogImpl/0.0.1620.1040@0.0.1620.1040" timestamp="1617122099282" />
+    <state x="654" y="335" key="NewModule_or_Project.wizard" timestamp="1617122118032">
+      <screen x="0" y="0" width="1620" height="1040" />
+    </state>
+    <state x="654" y="335" key="NewModule_or_Project.wizard/0.0.1620.1040@0.0.1620.1040" timestamp="1617122118032" />
+  </component>
+</project>
